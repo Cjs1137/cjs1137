@@ -1,4 +1,4 @@
-## Hi there 👋
+## Computer Science B.S from Rutgers University New Brunswick
 
 <!--
 **Cjs1137/cjs1137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
